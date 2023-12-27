@@ -16,7 +16,7 @@ function App() {
         {/* Add your countdown component here */}
         <div className="buttons">
           <a href="https://twitter.com/ZarloxInvaders" target="_blank" rel="noopener noreferrer" className="btn">Twitter</a>
-          <a href="https://discord.com/yourdiscordlink" target="_blank" rel="noopener noreferrer" className="btn">Discord [COMING SOON]</a>
+          <a href="https://discord.gg/rABcrbXnRP" target="_blank" rel="noopener noreferrer" className="btn">Discord</a>
         </div>
       </header>
     </div>
