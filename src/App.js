@@ -11,6 +11,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h1>Zarlox Invaders</h1>
+        <h2>2,222 NFT Collection on Solana</h2>
         <img src={myGif} alt="Zarlot Invader" />
         <CountdownTimer targetDate={targetDate} />
         {/* Add your countdown component here */}
