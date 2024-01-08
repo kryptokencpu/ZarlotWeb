@@ -74,3 +74,8 @@ img {
 .buttons {
   margin-top: 20px; /* Adjust the value as needed */
 }
+
+.myImage {
+  width: 500px; /* Set this to your desired width */
+  height: auto; /* This will maintain the aspect ratio */
+}
